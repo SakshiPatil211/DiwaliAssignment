@@ -1,3 +1,7 @@
+//1.Check if a number is prime 	
+//Input: Integer n 
+//Output: True if prime, False otherwise 
+
 package Test;
 
 import java.util.Scanner;

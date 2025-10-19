@@ -1,3 +1,7 @@
+//3.Calculate factorial of a number  	
+//Input: Integer n 
+//Output: n! (e.g., 5! = 120) 
+
 package Test;
 
 import java.util.Scanner;

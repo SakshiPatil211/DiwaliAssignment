@@ -1,3 +1,6 @@
+//Coding Challenges 
+//1.You are given an array of strings. Your task is to determine the length of the longest string in the array. 
+
 package Test;
 
 public class TestLongestString {

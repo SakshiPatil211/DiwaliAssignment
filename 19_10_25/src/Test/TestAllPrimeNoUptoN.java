@@ -1,3 +1,8 @@
+//2.Generate all prime numbers up to n 
+//Input: Integer n 
+//Output: List of primes ≤ n 
+
+
 package Test;
 import java.util.Scanner;
 

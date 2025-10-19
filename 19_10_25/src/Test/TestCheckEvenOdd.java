@@ -1,3 +1,7 @@
+//5.Check if a number is even or odd 	
+//Input: Integer n  	
+//Output: "Even" or "Odd" 
+
 package Test;
 
 import java.util.Scanner;

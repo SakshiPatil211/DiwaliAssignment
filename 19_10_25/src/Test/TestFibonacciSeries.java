@@ -1,3 +1,7 @@
+//4.Generate Fibonacci series up to n terms 
+//Input: Integer n 
+//Output: First n Fibonacci numbers 
+
 package Test;
 
 import java.util.Scanner;
